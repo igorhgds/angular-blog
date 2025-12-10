@@ -17,10 +17,11 @@
 }
 
 .content__description{
+   width: 600px;
    margin-top: 15px;
 }
 
 .content__description > p{
-   margin-top: 20px;
+   margin: 20px 0;
    color: rgb(198, 198, 198);
 }

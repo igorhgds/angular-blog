@@ -14,10 +14,14 @@
    margin-right: 20px;
 }
 
-.small-card__title{
+.small-card__content{
    display: flex;
+   flex-direction: column;
    justify-content: center;
-   align-items: center;
+}
+
+.small-card__title{
+   
    font-size: 10px;
 }
 
